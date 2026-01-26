@@ -4,56 +4,42 @@
 I'm an <B><I>Analytics Engineer</B></I> who loves turning messy data into clear, actionable insights. I bring strong core skills in Python, SQL, Excel and Tableau, combined with experience in Python libraries like scikit-learn, PyTorch, PySpark, etc, and Streamlit for end-to-end data analytics. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SQL        | <a href="https://google.com">Name here</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+<div>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Office%20Scripts-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
+</div> 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Version Control
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
-### Endpoint
+### Injestion
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SAP%20-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-%20Kafka-231F20?&style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### Warehouse
 
 ## Check this out
 <div>
-  <a href src="https://hackerrank-badges.vercel.app/dganchaudhuri"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <a href src ="https://github.com/DikshaGanchaudhuri/SQL-Murder-Mystery"><img src="https://img.shields.io/badge/-SQL%20Murder%20Mystery-005571?&style=for-the-badge&logoColor=white" />
 
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href src="https://www.hackerrank.com/certificates/iframe/43e7509c49be"><img src="https://img.shields.io/badge/-HackerRank-2EC866?&style=for-the-badge&logo=HackerRank&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href src ="https://github.com/DikshaGanchaudhuri/Bank-Customer-Churn-Analysis">Bank Customer Churn
+- <a href src="https://github.com/DikshaGanchaudhuri/Agriculture_analysis">Agriculture Crop Analysis
