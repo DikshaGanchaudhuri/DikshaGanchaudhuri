@@ -1,4 +1,4 @@
-# Hey, I'm Diksha Ganchaudhuri
+<h1>Hey, I'm Diksha Ganchaudhuri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <a href="https://www.linkedin.com/in/dg-diksha16/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <div>I'm an <B><I>Analytics Engineer</B></I> who loves turning messy data into clear, reliable and actionable insights. I work across the analytics and data engineering spectrum — from sourcing and ingesting data, to transforming it into analytics‑ready models, and finally delivering insights through dashboards and applications.</div><br>
@@ -78,5 +78,8 @@
 </div>
 
 ## Projects
+- <a href="https://github.com/DikshaGanchaudhuri/nlp-sentiment-analysis"> NLP Sentiment Analysis
+- <a href="https://github.com/DikshaGanchaudhuri/layoffs-sql-analysis"> Worldwide Layoff Analysis using SQL
+- <a href="https://github.com/DikshaGanchaudhuri/AI-Agents"> AI Agents
 - <a href="https://github.com/DikshaGanchaudhuri/Bank-Customer-Churn-Analysis">Bank Customer Churn
 - <a href="https://github.com/DikshaGanchaudhuri/Agriculture_analysis">Agriculture Crop Analysis
