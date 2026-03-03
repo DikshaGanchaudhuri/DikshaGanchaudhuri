@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Excel%20VBA-217346?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white" />
 </div> 
 
 ## Tools
@@ -16,23 +17,20 @@
 ### Source
 <div>
     <img src="https://img.shields.io/badge/-SAP%20-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-REST%20API-FF6F00?&style=for-the-badge&logo=Postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REST%20API-FF6F00?&style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
 ### Streaming & Processing
 <div>
     <img src="https://img.shields.io/badge/-%20Kafka-231F20?&style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?&style=for-the-badge&logo=ApacheSpark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Databricks-FF3621?&style=for-the-badge&logo=Databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Databricks-FF3621?&style=for-the-badge&logo=Databricks&logoColor=white" />
 </div>
 
 ### Cloud & Storage
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?&style=for-the-badge&logo=AmazonS3&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?&style=for-the-badge&logo=AmazonRedshift&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white" />
 </div>
 
 ### Transformation
@@ -47,16 +45,15 @@
 
 ### Orchestration
 <div>
-<img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?&style=for-the-badge&logo=ApacheAirflow&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?&style=for-the-badge&logo=ApacheAirflow&logoColor=white" />
 </div>
 
 ### Deployment
 <div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 
 ### Version Control
