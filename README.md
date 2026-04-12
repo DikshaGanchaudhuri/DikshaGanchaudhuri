@@ -24,7 +24,6 @@
 ### Streaming & Processing
 <div>
     <img src="https://img.shields.io/badge/-%20Kafka-231F20?&style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Databricks-FF3621?&style=for-the-badge&logo=Databricks&logoColor=white" />
 </div>
 
 ### Cloud & Storage
@@ -33,25 +32,14 @@
     <img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white" />
 </div>
 
-### Transformation
-<div>
-    <img src="https://img.shields.io/badge/-dbt-FF694B?&style=for-the-badge&logo=dbt&logoColor=white" />
-</div>
-
 ### BI
 <div>
     <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
 </div>
 
-### Orchestration
-<div>
-    <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?&style=for-the-badge&logo=ApacheAirflow&logoColor=white" />
-</div>
-
 ### Deployment
 <div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
@@ -76,7 +64,8 @@
 
 ## Projects
 - <a href="https://github.com/DikshaGanchaudhuri/nlp-sentiment-analysis"> NLP Sentiment Analysis
+- <a href="https://github.com/DikshaGanchaudhuri/Tetris-terraform"> Tetris Terraform
 - <a href="https://github.com/DikshaGanchaudhuri/layoffs-sql-analysis"> Worldwide Layoff Analysis using SQL
-- <a href="https://github.com/DikshaGanchaudhuri/AI-Agents"> AI Agents
 - <a href="https://github.com/DikshaGanchaudhuri/Bank-Customer-Churn-Analysis">Bank Customer Churn
+- <a href="https://github.com/DikshaGanchaudhuri/AI-Agents"> AI Agents
 - <a href="https://github.com/DikshaGanchaudhuri/Agriculture_analysis">Agriculture Crop Analysis
